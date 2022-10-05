@@ -1,2 +1,5 @@
 # Desafio-GitHub-Primeiro-Repositorio-Git/GitHub
-Desafio de projeto Git/GitHub
+Repositório de projeto Git/GitHub
+
+## Links
+[Sintaxe](https://www.markdownguide.org/basic-syntax/)
