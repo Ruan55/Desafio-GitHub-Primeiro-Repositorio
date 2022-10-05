@@ -1,0 +1,1 @@
+mkdir: Serve para criar um arquivo no terminal
